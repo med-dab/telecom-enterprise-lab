@@ -1,6 +1,6 @@
 # Hybrid Telecom Enterprise Network Lab
-**Student:** Mohamed Hedi Dab  
-**Level:** Master's Degree — Network & Security  
+**Student:** Mohamed Hedi Dab
+**Level:** Masters Degree — Network & Security
 **Year:** 2025/2026
 
 ## Architecture
